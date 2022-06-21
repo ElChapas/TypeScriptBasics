@@ -1,0 +1,18 @@
+{
+  "name": "fundamentos",
+  "version": "1.0.0",
+  "description": "This project is part of the course \"Fundamentos de Typescript\" by Platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Typescript",
+    "Basics"
+  ],
+  "author": "Oscar Chapa",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
