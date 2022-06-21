@@ -4,7 +4,8 @@
   "description": "This project is part of the course \"Fundamentos de Typescript\" by Platzi",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "npx tsc -p ./ -w"
   },
   "keywords": [
     "Typescript",
