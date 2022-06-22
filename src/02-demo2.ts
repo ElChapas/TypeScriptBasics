@@ -1,1 +1,3 @@
-const number = [];
+(() => {
+  const number = [];
+})();

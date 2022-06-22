@@ -1,2 +1,4 @@
-const myName = 'Oscar';
-console.log(myName);
+(() => {
+  const myName = 'Oscar';
+  console.log(myName);
+})();
