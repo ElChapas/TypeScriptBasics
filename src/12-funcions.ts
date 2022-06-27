@@ -28,5 +28,6 @@
   }
 
   const prod1 = createProductToJson('P1', new Date, 120, 'L');
-  prod1
+  const prod2 = createProductToJsonV2('P1', new Date, 120);
+  prod2
 })();
